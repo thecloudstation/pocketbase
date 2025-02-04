@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-ARG PB_VERSION=0.20.1
+ARG PB_VERSION=0.25.0
 
 RUN apk add --no-cache \
     unzip \
